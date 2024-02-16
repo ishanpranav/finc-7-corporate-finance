@@ -103,15 +103,13 @@ We model $B$ as a growing perpetuity:
 
 $${V_B}_0=\sum_{j=1}^\infty{\frac{{C_B}(1+g_B)^{j-1}}{(1+r)^j}}=\frac{C_{B}}{r-g_B},$$
 
-$${V_B}_0=\frac{\$5\text{ per share}}{10\%-4\%}\approx\$83.33\text{ per
-share}.$$
+$${V_B}_0=\frac{\$5\text{ per share}}{10\%-4\%}\approx\$83.33\text{ per share}.$$
 
 We model $C$ as a growing annuity:
 
 $${V_C}_0=\frac{C_C}{r-g_C}\left(1-\frac{(1+g_C)^n}{(1+r)^n}\right),$$
 
-$${V_C}_0=\frac{\$5\text{ per
-share}}{10\%-20\%}\left(1-\frac{(1+20\%)^6}{(1+10\%)^6}\right),$$
+$${V_C}_0=\frac{\$5\text{ per share}}{10\%-20\%}\left(1-\frac{(1+20\%)^6}{(1+10\%)^6}\right),$$
 
 $${V_C}_0\approx\$34.28\text{ per share}.$$
 
