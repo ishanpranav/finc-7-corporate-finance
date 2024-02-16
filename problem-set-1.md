@@ -28,7 +28,7 @@ $r$, $n$, $C_X$, and ${V_X}_n$.
 We can safely borrow the present value of \$8,000 discounted at 4.5\% compounded
 annually for 1 year:
 
-$$V_0=\mathrm{pv}(r=4.5\%,\,n=1,\,C=0,\,V_1=\$8000.00),$$
+$$V_0=\mathrm{pv}(r=4.5\%,\ n=1,\ C=0,\ V_1=\$8000.00),$$
 
 $$V_0=\frac{\$8000.00}{1+4.5\%},$$
 
@@ -68,11 +68,11 @@ The present value is about $50,738,481.67.
 
 We can model Social Security as an annuity:
 
-$$V_{44}=\mathrm{pv}(r=4\%,\,n=18,\,C=\$50000.00,\,V_{62}=0).$$
+$$V_{44}=\mathrm{pv}(r=4\%,\ n=18,\ C=\$50000.00,\ V_{62}=0).$$
 
 The present value is given by discounting:
 
-$$V_0=\mathrm{pv}(r=4\%,\,n=44,\,C=0,\,V_{44}),$$
+$$V_0=\mathrm{pv}(r=4\%,\ n=44,\ C=0,\ V_{44}),$$
 
 $$V_0\approx\$112697.08.$$
 
@@ -137,7 +137,7 @@ method proposed will introduce significant statistical bias.
 We must invest the present value of $95,000 discounted at 3.7% compounded
 annually for 5 years:
 
-$$V_0=\mathrm{pv}(r=3.7\%,\,n=5,\,C=0,\,V_5=\$95000.00),$$
+$$V_0=\mathrm{pv}(r=3.7\%,\ n=5,\ C=0,\ V_5=\$95000.00),$$
 
 $$V_0\approx\$79219.09.$$
 
