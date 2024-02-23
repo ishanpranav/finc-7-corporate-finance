@@ -161,24 +161,22 @@ are two cases:
 1. Suppose the study determines that the demand for widgets is low.
 
    1. Suppose we undertake the project. Then
-   $${V_B}_0=\mathrm{pv}(r=10\%,n=2,0,{V_B}_n=34)-30,$$
-   $${V_B}_0=\frac{34}{(1+10\%)^2}-30,$$
-   $${V_B}_0\approx-1.9008\dots$$
+   $${V_B}_0=\mathrm{npv}\left(r=10\%,\begin{bmatrix}0\\-30\\34\end{bmatrix}\right),$$
+   $${V_B}_0=\frac{(-30)}{1+10\%}+\frac{34}{(1+10\%)^2},$$
+   $${V_B}_0\approx 0.8264\dots$$
    2. Suppose we do not undertake the project. Then ${V_B}_0=0.$
 
-   So if demand is low we do not undertake the project.
+   So if demand is low we undertake the project.
 
 2. Suppose instead the study determines that the demand for widgets is high.
 
     1. Suppose we undertake the project. Then
-    $${V_B}_0=\mathrm{pv}(r=10\%,n=2,0,{V_B}_n=66)-30,$$
-    $${V_B}_0=\frac{66}{(1+10\%)^2}-30,$$
-    $${V_B}_0=54.\overline{54}-30=24.\overline{24}.$$
+    $${V_B}_0=\mathrm{npv}\left(r=10\%,\begin{bmatrix}0\\-30\\66\end{bmatrix}\right),$$
+    $${V_B}_0=\frac{(-30)}{1+10\%}+\frac{66}{(1+10\%)^2},$$
+    $${V_B}_0\approx 27.\overline{27}.$$
     2. Suppose we do not undertake the project. Then ${V_B}_0=0.$
 
     So if demand is high we undertake the project.
 
-Given that each outcome of the study is mutually exclusive and equally likely,
-we have in the general case that
-${V_B}_0\approx\frac{0(0)+24.\overline{24}(1)}{2}\approx 12.\overline{12}$. This
-implies $D<0$, hence we are completely unwilling to pay for the study.
+Since in both cases we undertake the project, we have $D<0$ and we are
+completely unwilling to pay for the study.
