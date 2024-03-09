@@ -173,7 +173,7 @@ are two cases:
     1. Suppose we undertake the project. Then
     $${V_B}_0=\mathrm{npv}\left(r=10\%,\begin{bmatrix}0\\-30\\66\end{bmatrix}\right),$$
     $${V_B}_0=\frac{(-30)}{1+10\%}+\frac{66}{(1+10\%)^2},$$
-    $${V_B}_0\approx 27.\overline{27}.$$
+    $${V_B}_0=27.\overline{27}.$$
     2. Suppose we do not undertake the project. Then ${V_B}_0=0.$
 
     So if demand is high we undertake the project.
