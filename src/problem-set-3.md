@@ -57,7 +57,7 @@ store instead.
 >
 > What is the net present value (NPV) of the project?
 
-![Problem Set 3 Question 2](../images/problem-set-3-2.png "Problem Set 3 Question 2")
+![Problem Set 3 Question 2](https://github.com/ishanpranav/finc-7-corporate-finance/blob/master/images/problem-set-3-2.png?raw=true "Problem Set 3 Question 2")
 
 The net present value of the project is about \$137.67 million.
 
@@ -82,7 +82,7 @@ The net present value of the project is about \$137.67 million.
 
 No, US Steel should not go ahead with the new furnace.
 
-![Problem Set 3 Question 3](../images/problem-set-3-3.png "Problem Set 3 Question 3")
+![Problem Set 3 Question 3](https://github.com/ishanpranav/finc-7-corporate-finance/blob/master/images/problem-set-3-3.png?raw=true "Problem Set 3 Question 3")
 
 The net present value is about -\$199.61 million.
 
@@ -106,6 +106,6 @@ The net present value is about -\$199.61 million.
 > \1. What is the NPV of the project? Draw your own table to calculate free cash
 > flows. Provide details on how you get to each line of items.
 
-![Problem Set 3 Question 4](../images/problem-set-3-4.png "Problem Set 3 Question 4")
+![Problem Set 3 Question 4](https://github.com/ishanpranav/finc-7-corporate-finance/blob/a10ce6eacc3981e0a2d81da832a17b345ebb9f9f/images/problem-set-3-4.png?raw=true "Problem Set 3 Question 4")
 
 The net present value is about \$85.80 thousand.
