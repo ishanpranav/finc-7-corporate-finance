@@ -24,7 +24,7 @@ Let $\mu^*$ represent the expected return of the market and $f$ represent the
 risk-free rate. Then the market risk premium is given by $(\mu^*-f)$.
 
 Let $D_t$ represent the dividend of a firm in year $t$, $P_t$ represent the
-price of an asset in year $t$, $C_t$ represent the cash flow of an project in
+price of an asset in year $t$, $C_t$ represent the cash flow of a project in
 year $t$, and $g$ represent a firm's dividend growth rate.
 
 ## Question 1
@@ -130,15 +130,15 @@ $$\mathbb{E}(R_{\rm E})=10.095\%.$$
 The preferred stock dividend is a proxy for the preferred equity cost of
 capital:
 
-$$R_{\rm P}=\frac{2.49}{30}\times 8\%=6.64\%.$$
+$$R_{\rm P}=\frac{2.49}{30}=8.3\%.$$
 
 Based on these proxies, we can estimate the weighted average cost of capital:
 
-$$R_{\rm AllCity}=(5.7\%\times(1-35\%)\times 40\%)+\\(10.095\%\times 52\%)+\\(6.64\%\times 8\%).$$
+$$R_{\rm AllCity}=(5.7\%\times(1-35\%)\times 40\%)+\\(10.095\%\times 52\%)+\\(8.3\%\times 8\%).$$
 
-$$R_{\rm AllCity}=7.2626\%.$$
+$$R_{\rm AllCity}=7.3954\%.$$
 
-The firm's cost of capital is about 7.2626%.
+The firm's cost of capital is about 7.3954%.
 
 ## Question 5
 
