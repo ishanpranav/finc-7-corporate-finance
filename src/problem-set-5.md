@@ -219,7 +219,7 @@ The firm's new net income is $149.31 million.
 
 > What is the amount of Pelamed’s interest tax shield in 2018?
 
-$21\%\times 73\text{ million}=\$15.33\text{ million}.$
+$$r_{\rm tax}X_{\rm interest}=(21\%\times 73\text{ million})=\$15.33\text{ million}.$$
 
 The amount of the interest tax shield is $15.33 million.
 
@@ -236,9 +236,8 @@ The amount of the interest tax shield is $15.33 million.
 > year. What is the value of the firm's equity?
 
 $$V_{\rm E}=V=\frac{E}{r_{\rm E}}.$$
-
-$$E=\$3500(1-r_{\rm tax})$$
-$$E=\$3500(1-30\%)=\$2450.$$
+$$E=\$3500\times(1-r_{\rm tax}),$$
+$$E=\$3500\times(1-30\%)=\$2450.$$
 
 Since the firm's earnings are risk-free, the expected return on equity is the
 risk free rate $f=5\%$.
@@ -301,10 +300,28 @@ Assume taxes are the only imperfection and the debt is expected to be permanent.
 > What will be the total value of the firm after the change in capital
 > structure?
 
-Assume the debt is priced at par. Then the change in capital structure is equal
-to the tax savings from the interest expense deduction. Let $V'$ denote the new
-value of the firm.
+The change in capital structure is equal to the tax savings from the interest
+expense deduction. Let $V'$ denote the new value of the firm.
 
-$$V'-V=40\%\times\frac{5\%\times\$2\text{ million}}{r_E},$$
+There is a causal relationship between the interest payments and the tax
+savings.
 
-$$V'-V=\$0.04\text{ million}$$
+$$V'=V+\frac{r_{\rm tax}X_{\rm interest}}{r_{\rm D}},$$
+
+$$V'=\$21\text{ million}+\frac{40\%\times5\%\times\$2\text{ million}}{5\%},$$
+
+$$V'=\$21.8\text{ million}.$$
+
+The new value of the firm is $21.8 million.
+
+### Question 5 Part B
+
+> What will be the value of the remaining equity after the change in capital
+> structure?
+
+The new value of the equity $V_{\rm E}'$ is the residual value of the firm:
+
+$$V_{\rm E}'=V'-V_{\rm D},$$
+$$V_{\rm E}'=\$21.8\text{ million}-\$2\text{ million}=\$19.8\text{ million}.$$
+
+The new value of the equity is $19.8 million.
