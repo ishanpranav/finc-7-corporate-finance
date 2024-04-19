@@ -103,11 +103,11 @@ $$r_{\rm E}'\approx 10\%+\left(\frac{\$17.1429\dots\text{ million}}{\$23.3117\do
 
 $$r_{\rm E}'\approx 10\%+(0.735376\dots)(r_{\rm E}-f),$$
 
-$$r_{\rm E}'\approx 10\%+(0.735376\dots)(10\%-0).$$
+$$r_{\rm E}'\approx 10\%+(0.735376\dots)(10\%-5\%).$$
 
-$$r_{\rm E}\approx 17.3538\dots\%.$$
+$$r_{\rm E}\approx 13.6769\dots\%.$$
 
-With leverage, the expected return on equity is about 17.35%.
+With leverage, the expected return on equity is about 13.7%.
 
 ### Question 1 Part D
 
