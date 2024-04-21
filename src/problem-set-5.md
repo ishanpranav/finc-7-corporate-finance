@@ -116,14 +116,14 @@ With leverage, the expected return on equity is about 13.7%.
 
 Without leverage, the worst-case future value of the equity is $V_{{\rm E}_1}=V_1=\$22\text{ million}$.
 
-$$\left(\frac{V_{{\rm E}_1}}{V_{{\rm E}_0}}-1\right)=\left(\frac{\$22\text{ million}}{\$40.\overline{45}\text{ million}}-1\right)\approx 45.6180\dots\%,$$
+$$\left(\frac{V_{{\rm E}_1}}{V_{{\rm E}_0}}-1\right)=\left(\frac{\$22\text{ million}}{\$40.\overline{45}\text{ million}}-1\right)\approx-45.6180\dots\%,$$
 
 The lowest possible realized return without leverage is about -46%.
 
 With leverage, the worst-case future value of the equity is
 $V_{{\rm E}_1}'=(V_1-V_{{\rm D}_1})=(\$22\text{ million}-\$18\text{ million})=\$4\text{ million}$.
 
-$$\left(\frac{V_{{\rm E}_1}'}{V_{{\rm E}_0}'}-1\right)=\left(\frac{\$4\text{ million}}{\$23.3117\dots\text{ million}}-1\right)\approx 82.8412\dots\%.$$
+$$\left(\frac{V_{{\rm E}_1}'}{V_{{\rm E}_0}'}-1\right)=\left(\frac{\$4\text{ million}}{\$23.3117\dots\text{ million}}-1\right)\approx-82.8412\dots\%.$$
 
 The lowest possible realized return with leverage is about -83%.
 
@@ -173,7 +173,7 @@ The new expected return on equity is 17%.
 The argument is fundamentally flawed. If the senior manager is charged with
 increasing firm value, then the method is incorect. A high expected return
 corresponds to a low price. The manager's goals will result in value destruction
-rather than value creation. The manager should instead focus on increasin the
+rather than value creation. The manager should instead focus on increasing the
 value of the firm.
 
 ## Question 3
