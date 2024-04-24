@@ -12,7 +12,7 @@ FINC 7 Corporate Finance
 
 Let $V$ represent the value of an asset
 
-Let $r_{\rm tax}$ represents the tax rate of a firm, $r_{\rm D}$ represent its
+Let $r_{\rm tax}$ represent the tax rate of a firm, $r_{\rm D}$ represent its
 cost of debt, and $V_{\rm D}$ represent the value of its debt.
 
 ## Question 1
@@ -186,7 +186,59 @@ The new debt-to-equity ratio of the firm is about 0.54.
 
 > Natsam Corporation has $285 million of excess cash. The firm has no debt and
 > 549 million shares outstanding with a current market price of $11 per share
-> (before the ex-dividend date). Natsam's board has decided to pay out this cash
-> as a one-time dividend.
+> (before the _ex_-dividend date). Natsam's board has decided to pay out this
+> cash as a one-time dividend.
 
 ### Question 4 Part A
+
+> What is the _ex_-dividend price of a share in a perfect capital market?
+
+Let $v$ represent the _cum_-dividend price, $d$ represent the dividend, and $v'$
+represent the _ex_-dividend price.
+
+$$v'=v-d,$$
+
+$$v'=\$11-\frac{285\text{ million}}{549\text{ million shares}},$$
+
+$$v'\approx\$10.4593\dots\text{ per share}.$$
+
+The _ex_-dividend price is about $10.46.
+
+### Question 4 Part B
+
+> If the board instead decided to use the cash to do a one-time share
+> repurchase, in a perfect capital market, what is the price of the shares once
+> the repurchase is complete?
+
+In a perfect capital market, the share price after the repurchase is about $10.46.
+
+### Question 4 Part C
+
+> In a perfect capital market, which policy in Part A or Part B makes investors
+> in the firm better off?
+
+In a perfect capital market, all payout policies are equivalent.
+
+## Question 5
+
+> You purchased CSH stock for $39 and it is now selling for $48. The company has
+> announced that it plans a $9 special dividend.
+
+Assume an efficient market. Assume there are no changes in the economic value of
+the firm during the relevant period.
+
+### Question 5 Part A
+
+> Assuming tax rates of 15% on dividends and capital gains, if you sell the
+> stock or wait and receive the dividend, will you have different after-tax
+> income?
+
+Since the dividend and capital gains rate are the same, there will be
+no difference in after-tax income.
+
+### Question 5 Part B
+
+> Assuming the capital gains tax rate is 19% and the dividend tax rate is 38%,
+> if you sell the stock or wait and receive the dividend, will you have
+> different after-tax income?
+
