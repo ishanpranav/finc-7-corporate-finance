@@ -42,3 +42,151 @@ $$V'=\$93.\overline{3}\text{ million}+(21\%\times\$23.44\text{ million}),$$
 $$V'\approx\$98.2557\text{ million}\dots.$$
 
 With leverage, the value of Milton Industries is about $98.26 million.
+
+## Question 2
+
+> Zymase is a biotechnology start-up firm. Researchers at Zymase must choose one
+> of three different research strategies. The payoffs (after-tax) and their
+> likelihood for each strategy are shown below. The risk of each project is
+> diversifiable.
+
+| Strategy | Probability (%) | Payoff ($ million) |
+|----------|-----------------|--------------------|
+| A        |             100 |                 65 |
+| B        |              50 |                120 |
+|          |              50 |                  0 |
+| C        |              10 |                270 |
+|          |              90 |                 30 |
+
+### Question 2 Part A
+
+> Which project has the highest expected payoff?
+
+#### Table 1: Firm value
+
+| Strategy | Expected payoff ($ million) |
+|----------|-----------------------------|
+| A        | 65                          |
+| B        | 60                          |
+| C        | 29.7                        |
+
+Strategy A has the highest expected payoff.
+
+### Question 2 Part B
+
+> Suppose Zymase has debt of $30 million due at the time of the project's
+> payoff. Which strategy has the highest expected payoff for equity holders?
+
+#### Table 2: Equity holders with $30 million in debt
+
+| Strategy | Probability (%) | Payoff ($ million) |
+|----------|-----------------|--------------------|
+| A        |             100 |                 35 |
+| B        |              50 |                 90 |
+|          |              50 |                  0 |
+| C        |              10 |                240 |
+|          |              90 |                  0 |
+
+| Strategy | Expected payoff ($ million) |
+|----------|-----------------------------|
+| A        |                          35 |
+| B        |                          45 |
+| C        |                          24 |
+
+Strategy B has the highest expected payoff for equity holders if the firm has
+$30 million in debt.
+
+### Question 2 Part C
+
+> Suppose Zymase has debt of $130 million due at the time of the project's
+> payoff. Which strategy has the highest expected payoff for equity holders?
+
+#### Table 3: Equity holders with $130 million in debt
+
+| Strategy | Probability (%) | Payoff ($ million) |
+|----------|-----------------|--------------------|
+| A        |             100 |                  0 |
+| B        |              50 |                  0 |
+|          |              50 |                  0 |
+| C        |              10 |                140 |
+|          |              90 |                  0 |
+
+| Strategy | Expected payoff ($ million) |
+|----------|-----------------------------|
+| A        |                           0 |
+| B        |                           0 |
+| C        |                          14 |
+
+Strategy C has the highest expected payoff for equity holders if the firm has
+$130 million in debt.
+
+### Question 2 Part D
+
+> If management chooses the strategy that maximizes the payoff to equity
+> holders, what is the expected agency cost to the firm from having $30 million
+> in debt due? What is the expected agency cost to the firm from having $130
+> million in debt due?
+
+The expected agency cost to the firm from having $30 million in debt due is $5
+million. The expected agency cost from having $130 million in debt is $35.3
+million.
+
+## Question 3
+
+> KMS Corporation has assets of $650 million, $130 million of which are cash. It
+> has debt of $216.7 million. Suppose KMS repurchases $32.5 million of its stock
+> using its cash reserve.
+
+### Question 3 Part A
+
+> What changes will occur on its balance sheet?
+
+#### Table 4: Balance sheet before stock repurchase
+
+|  |           KMS Corporation          |  |
+|:-|:----------------------------------:|-:|
+||           **Balance Sheet**            ||
+|||                          in $ millions |
+| **ASSETS**                    ||         |
+| Cash                          ||  130.0  |
+| Other assets                  ||  520.0  |
+| **Total assets**              ||**650.0**|
+| **LIABILITIES**               ||         |
+| Debt payable                  ||  216.7  |
+| **Total liabilities**         ||**216.7**|
+| **SHAREHOLDERS' EQUITY**      ||         |
+| **Total shareholder's equity**||**433.3**|
+
+#### Table 5: Balance sheet after stock repurchase
+
+|  |           KMS Corporation          |  |
+|:-|:----------------------------------:|-:|
+||           **Balance Sheet**            ||
+|||                          in $ millions |
+| **ASSETS**                    ||         |
+| Cash                          ||   97.5  |
+| Other assets                  ||  520.0  |
+| **Total assets**              ||**617.5**|
+| **LIABILITIES**               ||         |
+| Debt payable                  ||  216.7  |
+| **Total liabilities**         ||**216.7**|
+| **SHAREHOLDERS' EQUITY**      ||         |
+| **Total shareholder's equity**||**400.8**|
+
+Both the cash balance and the shareholders' equity will decrease by $32.5
+million.
+
+### Question 3 Part B
+
+> What will be its new debt-to-equity ratio?
+
+The new debt-to-equity ratio of the firm is about 0.54.
+
+## Question 4
+
+> Natsam Corporation has $285 million of excess cash. The firm has no debt and
+> 549 million shares outstanding with a current market price of $11 per share
+> (before the ex-dividend date). Natsam's board has decided to pay out this cash
+> as a one-time dividend.
+
+### Question 4 Part A
