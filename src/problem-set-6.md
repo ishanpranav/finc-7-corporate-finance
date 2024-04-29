@@ -15,6 +15,9 @@ Let $V$ represent the value of an asset
 Let $r_{\rm tax}$ represent the tax rate of a firm, $r_{\rm D}$ represent its
 cost of debt, and $V_{\rm D}$ represent the value of its debt.
 
+Define $\mathrm{pv}:\mathbb{Q}^4\to\mathbb{Q}$, which yields ${v_0}$ given
+$r$, $n$, $C$, and ${v_n}$.
+
 ## Question 1
 
 > Milton Industries expects free cash flows of $14 million each year. Milton's
@@ -242,3 +245,42 @@ no difference in after-tax income.
 > if you sell the stock or wait and receive the dividend, will you have
 > different after-tax income?
 
+Assume that the announcement of a dividend has no impact on the market's
+perception of the firm's value. Since the capital gains tax rate is greater than
+the dividend tax rate, selling the stock before receiving the dividend is
+preferable.
+
+## Question 6
+
+> AMS Company has unexpectedly generated a one-time extra $6 million in cash
+> flow this year. After announcing the extra cash flow, AMS stock price was $55
+> per share (it has 1 million shares outstanding). The managers are considering
+> spending the $6 million on a project that would generate a single cash flow of
+> $6.5 million in one year, which they would then use to repurchase shares.
+> Assume the cost of capital for the project is 11%.
+
+### Question 6 Part A
+
+> If they decide on the investment, what will happen to the price per share?
+
+Denote the new firm value $V'$ and the new firm value per share $v'$:
+
+$$V'=(\$55\text{ per share}\times 1\text{ million shares})-\$6\text{ million}+\mathrm{pv}(r=11\%,n=1,C=0,\$6.5\text{ million}),$$
+
+$$v'\approx\$55\text{ per share}-\$6\text{ per share}+\$5.8559\dots\text{ per share},$$
+
+$$v'\approx\$55\text{ per share}-\$0.1441\text{ per share},$$
+
+$$v'\approx\$54.8559\dots\text{ per share}.$$
+
+If the managers spend the $6 million on the project, the firm's share price will
+fall by about $0.14 to about $54.86.
+
+### Question 6 Part B
+
+> If they instead use the $6 million to repurchase stock immediately, what will
+> be the price per share? Which of the two options would you choose? 
+
+In a perfect capital market, the repurchase has no effect on the share price.
+Therefore, the price per share should be about $54.86. The options are
+equivalent and we are indifferent.
