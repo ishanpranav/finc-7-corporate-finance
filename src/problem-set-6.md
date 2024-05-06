@@ -71,7 +71,7 @@ With leverage, the value of Milton Industries is about $98.26 million.
 |----------|-----------------------------|
 | A        | 65                          |
 | B        | 60                          |
-| C        | 29.7                        |
+| C        | 54                          |
 
 Strategy A has the highest expected payoff.
 
@@ -203,9 +203,9 @@ $$v'=v-d,$$
 
 $$v'=\$11-\frac{285\text{ million}}{549\text{ million shares}},$$
 
-$$v'\approx\$10.4593\dots\text{ per share}.$$
+$$v'\approx\$10.4809\dots\text{ per share}.$$
 
-The _ex_-dividend price is about $10.46.
+The _ex_-dividend price is about $10.48.
 
 ### Question 4 Part B
 
@@ -213,7 +213,7 @@ The _ex_-dividend price is about $10.46.
 > repurchase, in a perfect capital market, what is the price of the shares once
 > the repurchase is complete?
 
-In a perfect capital market, the share price after the repurchase is about $10.46.
+In a perfect capital market, the share price after the repurchase is $11.
 
 ### Question 4 Part C
 
@@ -279,8 +279,8 @@ fall by about $0.14 to about $54.86.
 ### Question 6 Part B
 
 > If they instead use the $6 million to repurchase stock immediately, what will
-> be the price per share? Which of the two options would you choose? 
+> be the price per share? Which of the two options would you choose?
 
 In a perfect capital market, the repurchase has no effect on the share price.
-Therefore, the price per share should be about $54.86. The options are
-equivalent and we are indifferent.
+Therefore, the price per share should be about $55. The firm should proceed with
+the share repurchase.
