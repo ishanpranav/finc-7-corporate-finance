@@ -1,6 +1,6 @@
 # Corporate Finance
 
-A collection of problem set solutions for NYU FINC 7 Corporate Finance course.
+A collection of problem set solutions for the NYU FINC 7 Corporate Finance course.
 
 ## Contents
 
