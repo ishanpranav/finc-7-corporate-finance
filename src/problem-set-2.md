@@ -73,6 +73,10 @@ Intuitively, the internal rate of return IRR should be greater than 9.4\%
 because this is a positive-NPV project where cash flows are provided at the end
 of successive future periods.
 
+We can make this conclusion because NPV is a downward-sloping function of the
+discount rate. We know this because there is only one sign change in the cash
+flows; the rest follows from Descartes' Law of Signs.
+
 ## Question 3
 
 > You are thinking about placing a sign advertising your services at a local bus
