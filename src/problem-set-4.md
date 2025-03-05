@@ -103,7 +103,7 @@ $$g=6.307\%.$$
 
 Since both models provide a proxy for the same rate, we would expect about
 6.307\% dividend growth for the models to converge at the same estimate for the
-equity cost of captal.
+equity cost of capital.
 
 ## Question 4
 
