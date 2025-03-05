@@ -92,11 +92,11 @@ Thus the payback period is 6 days.
 
 ## Question 4
 
-> You have \$1M dollars. There are two projects. Each requires an upfront
-> investment of \$1M, then generates positive cash flows every year after that.
-> Project A has an NPV of \$5M, an IRR of 10\%. Project B has an NPV of \$3M, an
-> IRR of 15\%. Which project should get funding? Explain why. If your answer
-> depends on specific assumptions, state your assumptions.
+> You have \$1M. There are two projects. Each requires an upfront investment of
+> \$1M, then generates positive cash flows every year after that. Project A has
+> an NPV of \$5M, an IRR of 10\%. Project B has an NPV of \$3M, an IRR of 15\%.
+> Which project should get funding? Explain why. If your answer depends on
+> specific assumptions, state your assumptions.
 
 Assume we can raise additional capital. We will invest in both Project A and
 Project B because both projects have positive NPV. This means that, even
