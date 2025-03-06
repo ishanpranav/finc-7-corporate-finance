@@ -54,7 +54,7 @@ The minimum sale price is \$96,120.00.
 
 The result is given by the sum of the present values of the cash flows:
 
-$$V_0=\mathrm{npv}\left(r=9.4\%,\begin{bmatrix}\$895000\\\$261450\\\$607500\\\$360225\\\$199496\\\$95022\end{bmatrix}\right),$$
+$$V_0=\mathrm{npv}\left(r=9.4\%,\begin{bmatrix}-\$895000\\\$261450\\\$607500\\\$360225\\\$199496\\\$95022\end{bmatrix}\right),$$
 
 $$V_0=\sum_{j=0}^{n}{\mathrm{pv}(r=9.4\%,j,0,C_j)},$$
 
